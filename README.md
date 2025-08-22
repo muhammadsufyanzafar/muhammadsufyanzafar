@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsufyanzafar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsufyanzafar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsufyanzafar" alt="muhammadsufyanzafar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/m_sufyan_zafar" target="blank"><img src="https://img.shields.io/twitter/follow/m_sufyan_zafar?logo=twitter&style=for-the-badge" alt="m_sufyan_zafar" /></a> </p>
 
 - 🔭 I’m currently working on [iChatAI](https://github.com/muhammadsufyanzafar/iChatAI--Open-Source-AI-Chatbot-using-API)
