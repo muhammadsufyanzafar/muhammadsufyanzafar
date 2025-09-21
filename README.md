@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Android & Websites**
 
-- 📫 How to reach me **sufyan.pk444@gmail.com**
+- 📫 Reach me at **sufyan.pk444@gmail.com**
 
 - ⚡ Fun fact **I'm friendly**
 
