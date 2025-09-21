@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Quizardry](https://github.com/muhammadsufyanzafar/Quzardry--Best-for-Students) a smart, AI powered and lightweight study companion app designing for students.
 
-- 👨‍💻 Check out my [Portfolio](https://muhammadsufyanzafar.github.io/portfolio/)
-
 - 📚 Always Learning 
 
 - 💬 Ask me about **Android & Websites**
+
+- 👨‍💻 Check out my [Portfolio](https://muhammadsufyanzafar.github.io/portfolio/)
 
 - 📫 Reach me at **sufyan.pk444@gmail.com**
 
