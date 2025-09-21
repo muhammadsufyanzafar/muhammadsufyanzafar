@@ -12,6 +12,8 @@
 
 - 👨‍💻 Check out my [Portfolio](https://muhammadsufyanzafar.github.io/portfolio/)
 
+- 📚 Always Learning 
+
 - 💬 Ask me about **Android & Websites**
 
 - 📫 Reach me at **sufyan.pk444@gmail.com**
