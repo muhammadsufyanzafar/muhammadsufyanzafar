@@ -48,7 +48,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufyanzafar&theme=tokyonight" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsufyanzafar&layout=pie&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsufyanzafar&layout=pie&theme=dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
