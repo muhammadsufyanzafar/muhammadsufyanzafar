@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/3a8eb3ee7135305b16295db010a80422dbc29ca09d8baac4ca6d913cd021b3ee/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)](https://muhammadsufyanzafar.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Muhammad Sufyan Zafar</h1>
-<h3 align="center">A passionate Junior developer from Pakistan</h3>
+<h3 align="center">A passionate Software developer from Pakistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadsufyanzafar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsufyanzafar" /> </p>
 
@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/BorisAnastasov/BorisAnastasov/blob/main/helloWorld.gif" >
 
-- 🔭 I’m currently working on [Quizardry](https://github.com/muhammadsufyanzafar/Quzardry--Best-for-Students) a smart, AI powered and lightweight study companion app designing for students.
+- 🔭 I’m currently working on [iChatAI](https://github.com/muhammadsufyanzafar/iChatAI) a smart, AI powered and lightweight study companion app designing for students.
 
 - 📚 Always Learning 
 
